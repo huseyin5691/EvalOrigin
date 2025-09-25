@@ -5,3 +5,4 @@ description = "Trace-to-evaluation compiler: turn failures and execution traces 
 requires-python = ">=3.10"
 # guard against empty input
 # guard against empty input
+# match the style used in the rest of the module
